@@ -1,6 +1,6 @@
-# E60 Link
+# BMW Link
 
-Wydania aplikacji E60 Link na telefon (Android): trasa z Map Google i to, co gra w telefonie, same w radiu auta.
+Wydania aplikacji BMW Link na telefon (Android, BMW E60 / E90 z radiem KSW): trasa z Map Google i to, co gra w telefonie, same w radiu auta.
 
 - Pobierz najnowszy plik `.apk` z zakładki **Releases**.
 - Aplikacja sama sprawdza tu nowe wersje i aktualizuje się (pierwszy raz Android poprosi o zgodę na instalowanie).
